@@ -49,22 +49,5 @@ React Native, Spring Boot, Odoo, Flutter, SQL, or how to turn business needs int
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassinelaamarti&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinelaamarti&theme=radical" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinelaamarti&layout=compact&theme=radical" width="45%" />
-</p>
-
----
-
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 *Open to PFA internship opportunities – feel free to connect!*
