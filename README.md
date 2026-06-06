@@ -1,256 +1,108 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=Yassine%20Laamarti&fontSize=40&fontColor=e6edf3&fontAlignY=38&desc=Élève%20Ingénieur%20·%20MGSI%20·%20ENSIASD%20'27&descAlignY=58&descColor=8b949e&animation=fadeIn" />
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=ERP+Odoo+%7C+Syst%C3%A8mes+d%27Information+%7C+Gouvernance+SI;Architecture+SI+%7C+ITIL+%7C+COBIT+%7C+Audit;Full+Stack+%7C+Mobile+%7C+IA+%26+LLM)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-laamarti/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassinelaamarti362@gmail.com)
-[![Stage](https://img.shields.io/badge/🎯_Stage_PFA-Juin–Août_2026-1f6feb?style=for-the-badge)](mailto:yassinelaamarti362@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=yassinelaamarti&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)](https://github.com/yassinelaamarti)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=800&color=1F6FEB&center=true&vCenter=true&width=600&lines=YASSINE+LAAMARTI;Ingénieur+en+Management+SI;Odoo+%7C+Full-Stack+%7C+Mobile+%7C+IA" alt="Typing Animation" />
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/yassine-laamarti/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yassinelaamarti362@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Stage_PFA-2026-1f6feb?style=for-the-badge" /></a>
 </div>
 
 ---
 
-```yaml
-# about.yaml
-name:    Yassine Laamarti
-role:    Élève Ingénieur · Management & Gouvernance des Systèmes d'Information
-school:  ENSIASD, Taroudant · Promotion 2027
-focus:
-  - ERP Odoo — modules, paramétrage, workflows, API REST, tests fonctionnels
-  - Architecture & Gouvernance SI — ITIL, COBIT, Merise, UML, audit
-  - Full Stack & Mobile — Spring Boot, React, React Native, Flutter
-  - Data & IA — Python, Scikit-learn, Power BI, LLM (Groq), TTS/STT
-internships: 3  # SysPartenaire Casablanca × 2, Hôpital Public Sidi Saïd Meknès
-open_to:   stage 2–3 mois · Casablanca prioritaire · remote OK
-languages: [Arabe (natif), Français (courant), Anglais (courant)]
-```
+## 👋 À propos
+
+Ingénieur en **Management & Gouvernance des Systèmes d'Information** (ENSIASD).  
+Je conçois des solutions **ERP (Odoo)**, des applications **full-stack** et **mobiles** intégrant l'**IA générative**.  
+Du cahier des charges à l’API sécurisée, je livre des projets métier robustes.
+
+📌 **Recherche stage PFA – Juin à Août 2026** 
 
 ---
 
-## ⚙️ Compétences
+## 🧰 Compétences
 
-### 🟣 ERP & Odoo
+### 🏭 ERP & SI
+![Odoo 17](https://img.shields.io/badge/Odoo_17-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Modules](https://img.shields.io/badge/Modules-2D5F7E?style=for-the-badge)
+![Workflows](https://img.shields.io/badge/Workflows-2D5F7E?style=for-the-badge)
+![Tests fonctionnels](https://img.shields.io/badge/Tests_fonctionnels-2D5F7E?style=for-the-badge)
+![API REST](https://img.shields.io/badge/API_REST-009688?style=for-the-badge)
+![UML](https://img.shields.io/badge/UML-2D5F7E?style=for-the-badge)
+![Merise](https://img.shields.io/badge/Merise-2D5F7E?style=for-the-badge)
+![Architecture 3-tiers](https://img.shields.io/badge/Architecture_3--tiers-2D5F7E?style=for-the-badge)
+![Spécifications fonctionnelles](https://img.shields.io/badge/Spécifications_fonctionnelles-2D5F7E?style=for-the-badge)
 
-| Compétence | Détail |
-|---|---|
-| Développement modules | Création de modules Odoo 17 from scratch, vues, modèles, wizards |
-| Paramétrage & configuration | Workflows, règles métiers, séquences, groupes d'accès |
-| Tests fonctionnels | Rédaction et exécution de scénarios de test, correction d'anomalies |
-| API REST Odoo | 14 endpoints sécurisés, authentification JWT dual-layer |
-| Support utilisateurs | Formation, documentation, accompagnement à la prise en main |
-| Modélisation processus | Analyse des besoins, modélisation AS-IS / TO-BE |
+### 🛡️ Gouvernance & Audit
+![ITIL](https://img.shields.io/badge/ITIL-2D5F7E?style=for-the-badge)
+![COBIT](https://img.shields.io/badge/COBIT-2D5F7E?style=for-the-badge)
+![Audit SI](https://img.shields.io/badge/Audit_SI-2D5F7E?style=for-the-badge)
+![RGPD](https://img.shields.io/badge/RGPD-2D5F7E?style=for-the-badge)
+![Cartographie des flux](https://img.shields.io/badge/Cartographie_des_flux-2D5F7E?style=for-the-badge)
+![Gestion des risques](https://img.shields.io/badge/Gestion_des_risques-2D5F7E?style=for-the-badge)
 
----
+### ⚙️ Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![BCrypt](https://img.shields.io/badge/BCrypt-2D5F7E?style=for-the-badge)
 
-### 🔵 Architecture & Systèmes d'Information
+### 🎨 Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Expo EAS](https://img.shields.io/badge/Expo_EAS-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-| Compétence | Détail |
-|---|---|
-| Architecture 3-tiers | Séparation présentation / métier / données, conception distribuée |
-| Modélisation Merise | MCD, MLD, MPD — conception bases de données relationnelles |
-| Modélisation UML | Diagrammes de classes, séquences, cas d'utilisation, activité |
-| Spécifications fonctionnelles | Rédaction de cahiers des charges, dossiers d'analyse |
-| Cartographie des flux | Modélisation des flux d'information et des processus métiers |
-| Conception SI | Architecture logicielle, patterns, découplage des composants |
+### 📊 Data & BI
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-2D5F7E?style=for-the-badge)
+![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
----
+### 🧠 IA & API
+![Groq LLaMA 3.3](https://img.shields.io/badge/Groq_LLaMA_3.3-F54E27?style=for-the-badge)
+![Whisper STT](https://img.shields.io/badge/Whisper_STT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ElevenLabs TTS](https://img.shields.io/badge/ElevenLabs_TTS-000000?style=for-the-badge)
+![REST API Design](https://img.shields.io/badge/REST_API_Design-009688?style=for-the-badge)
 
-### 🟠 Gouvernance SI
-
-| Compétence | Détail |
-|---|---|
-| ITIL | Gestion des services IT, cycle de vie, incidents, changements |
-| COBIT | Framework de gouvernance IT, contrôles, alignement stratégique |
-| Audit SI | Évaluation des risques, conformité, recommandations |
-| RGPD | Notions de conformité, gestion des données personnelles |
-| Gestion des risques | Identification, analyse, plan de traitement des risques SI |
-
----
-
-### 🟢 Développement Backend
-
-| Langage / Framework | Utilisation |
-|---|---|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | Scripts, API, machine learning, automatisation Odoo |
-| ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) **Spring Boot** | Applications Java enterprise, REST API, sécurité JWT/BCrypt |
-| ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) **Django** | Portail web, ORM, authentification, administration |
-| ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) **Flask** | Micro-services, API légères, gestion livraison |
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) **Node.js / Express** | Backend mobile (Darija Tourist), API REST, Railway deploy |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) **PHP** | Applications web académiques, gestion PFE |
-
----
-
-### 🔵 Développement Frontend
-
-| Langage / Framework | Utilisation |
-|---|---|
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) **React** | Interfaces dynamiques, composants réutilisables, SPA |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) **Next.js** | Plateforme hospitalière, SSR, routing avancé |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** | Logique front, DOM, fetch API, interactions |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) **PHP / HTML / CSS** | Templates, formulaires, gestion projets académiques |
-
----
-
-### 🟡 Mobile & Intelligence Artificielle
-
-| Technologie | Utilisation |
-|---|---|
-| ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) **React Native (Expo)** | App Darija Tourist — navigation, design system, EAS Build APK |
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) **Flutter** | Application GMAO mobile — SysPartenaire Casablanca |
-| **Groq LLaMA 3.3 70B** | Chat IA multilingue intégré à l'app mobile |
-| **Groq Whisper STT** | Reconnaissance vocale — pratique de la prononciation darija |
-| **ElevenLabs TTS** | Synthèse vocale naturelle pour réponses audio |
-| **Context API / Axios** | Gestion des sessions, appels API, état global |
-
----
-
-### 🔴 Data & Business Intelligence
-
-| Outil / Technologie | Utilisation |
-|---|---|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python · Pandas** | Analyse exploratoire, nettoyage, manipulation de données |
-| **Scikit-learn** | Régression, classification, évaluation de modèles ML |
-| **Séries temporelles** | Notions de prévision, modèles AR/MA (en apprentissage) |
-| ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) **Power BI** | Dashboards interactifs, connecteurs SQL/Excel, DAX, Power Query |
-| **Talend (notions)** | ETL — extraction, transformation, chargement de données |
-| **Streamlit** | Interface de visualisation pour modèles ML |
-
----
-
-### 🟤 Bases de Données
-
-| Base de données | Utilisation |
-|---|---|
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) **PostgreSQL** | ERP Odoo, app mobile (Railway), requêtes avancées, optimisation |
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) **MySQL** | Plateforme hospitalière, GMAO, gestion livraison |
-| **SQL avancé** | Jointures complexes, vues, procédures stockées, indexation |
-
----
-
-### 🔒 Sécurité & API
-
-| Compétence | Détail |
-|---|---|
-| **JWT (JSON Web Tokens)** | Authentification stateless, dual-layer (Odoo + Django), expiration, refresh |
-| **BCrypt** | Hachage des mots de passe — plateforme hospitalière Spring Boot |
-| **Gestion des rôles** | Contrôle d'accès RBAC, groupes, permissions par ressource |
-| **REST API Design** | Conception d'endpoints, verbes HTTP, codes de réponse, pagination |
-| **Web Speech API** | Intégration assistant vocal navigateur — reconnaissance + synthèse |
+### 🗄️ Bases de données & Outils
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 ---
 
 ## 🚀 Projets phares
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 ERP Académique — Odoo 17 `2026`
-> Simulation complète de gestion d'établissement scolaire
-
-- **9 modules** personnalisés interconnectés
-- **14 API REST** sécurisées (JWT dual-auth)
-- Portail étudiant **Django** + rapports PostgreSQL
-- Tests fonctionnels end-to-end + correction anomalies
-
-`Odoo 17` `Python` `Django` `PostgreSQL` `JWT`
-
-</td>
-<td width="50%">
-
-### 🇲🇦 Darija Tourist — App Mobile `2025–26`
-> Apprentissage du darija (arabe marocain) pour touristes
-
-- Chat IA — **Groq LLaMA 3.3 70B**
-- Voix STT/TTS — **Whisper + ElevenLabs**
-- Quiz, cours thématiques, carte touristique
-- APK distribué via **Expo EAS Build**
-
-`React Native` `Expo` `Node.js` `Groq` `ElevenLabs`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏥 Plateforme Hospitalière `2025`
-> Architecture 3-tiers · Hôpital Public Sidi Saïd
-
-- Patients, RDV, hospitalisations, facturation
-- Assistant vocal — **Web Speech API**
-- Sécurisation **JWT + BCrypt**
-
-`Spring Boot` `Next.js` `MySQL` `JWT` `BCrypt`
-
-</td>
-<td width="50%">
-
-### 🤖 ML — Prédiction des Notes `2025`
-> Modèle prédictif sur données éducatives
-
-- Régression + classification supervisée
-- Interface de visualisation **Streamlit**
-- Analyse exploratoire complète avec Pandas
-
-`Python` `Scikit-learn` `Pandas` `Streamlit`
-
-</td>
-</tr>
-</table>
+| Projet | Stack | Réalisations |
+|--------|-------|---------------|
+| **🎓 ERP Académique** | Odoo 17, Python, PostgreSQL | 9 modules métier, **14 API REST JWT**, portail étudiant, tests fonctionnels |
+| **🗣️ Darija Tourist** | React Native, Node.js, Groq LLaMA 3.3, Whisper, ElevenLabs | Chat vocal IA, TTS/STT, quiz, carte interactive, **APK (Expo EAS)** |
+| **🏥 Plateforme Hospitalière** | Spring Boot, Next.js, MySQL, JWT, BCrypt | Archi 3-tiers, assistant vocal, gestion de dossiers médicaux |
+| **🛠️ GMAO Mobile** | Flutter, Merise, UML | App terrain pour maintenance industrielle (stage Casablanca) |
+| **📊 ML Prédiction de notes** | Python (Scikit-learn, Pandas), Streamlit | Régression / classification, dashboard Power BI |
 
 ---
 
-## 📊 GitHub Stats
+
+## 📫 Contact & recherche
+
+- **Email :** [yassinelaamarti362@gmail.com](mailto:yassinelaamarti362@gmail.com)
+- **LinkedIn :** [yassine-laamarti](https://www.linkedin.com/in/yassine-laamarti/)
+- **Stage PFA (2026) :** disponible **Juin–Août** 
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yassinelaamarti&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinelaamarti&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=yassinelaamarti&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yassinelaamarti&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🏆 Trophées
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yassinelaamarti&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6" />
-
-</div>
-
----
-
-## 📅 Parcours
-
-```
-2024 → présent   ████  ENSIASD · Cycle ingénieur MGSI (4ème année)
-           2025   ███   Stage · Hôpital Public Sidi Saïd, Meknès
-           2024   ███   Stage · SysPartenaire, Casablanca — Flutter / GMAO
-           2023   ███   Stage · SysPartenaire, Casablanca — Flask / Livraison
-2023 → 2024      ████  EST Meknès · DUT Génie Informatique — Mention Bien
-           2022          Baccalauréat Sciences Physiques — Mention Bien
-```
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=100&section=footer&text=Open%20to%20opportunities%20·%20Juin–Août%202026&fontSize=13&fontColor=8b949e&fontAlignY=65&animation=fadeIn" />
-
+  <sub>✅ ERP · Gouvernance SI · Applications mobiles intelligentes · API sécurisées</sub>
+  <br/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=yassinelaamarti&style=flat-square&color=blue" alt="Profile views" />
 </div>
