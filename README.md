@@ -1,27 +1,54 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=800&color=1F6FEB&center=true&vCenter=true&width=650&lines=YASSINE+LAAMARTI;ERP+%26+Business+Analysis+Developer;SAP+ABAP+%7C+Odoo+%7C+Full-Stack+%7C+AI" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=800&color=1F6FEB&center=true&vCenter=true&width=700&lines=YASSINE+LAAMARTI;SAP+ABAP+Cloud+%26+Odoo+ERP+Developer;RAP+%7C+CDS+%7C+Fiori+%7C+Clean+Core;ERP+%2B+Full-Stack+%2B+AI" alt="Typing Animation" />
   <br/><br/>
   <a href="https://www.linkedin.com/in/yassine-laamarti/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:yassinelaamarti362@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/PFE_Internship-2026-1f6feb?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PFE_Internship-From_Jan_2027-1f6feb?style=for-the-badge" /></a>
 </div>
 
 ---
 
 ## 👋 About
 
-5th-year Engineering student specializing in **Information Systems Management & Governance** (ENSIASD).
+5th-year Engineering student specializing in **Information Systems Management & Governance** (ENSIASD), with a profile focused on **ERP (SAP / Odoo)**.
 
-Hands-on experience across the full ERP project lifecycle — requirements gathering, functional analysis, technical design, development, testing — built on **Odoo 17**, and directly transferable to the **SAP** ecosystem. Currently strengthening my **SAP / ABAP** skills to extend this ERP expertise into SAP.
+I hold **two SAP certifications, both passed with a 100% score** (ABAP Cloud and SAP CAP) and I'm currently building an **SAP Sales & Inventory Management** application using **ABAP Cloud, CDS, RAP and Fiori** with a Clean Core approach. This builds on hands-on experience across the full ERP project lifecycle (requirements gathering, functional analysis, technical design, development, testing) acquired on **Odoo 17**.
 
-🎯 **Seeking a final-year internship (PFE, 2026)** — ERP / SAP / Business Analysis, remote or on-site.
+🎯 **Seeking a final-year internship (PFE) starting January 2027**: SAP / ERP development & integration, Business Analysis. Open to relocating to Rabat.
+
+---
+
+## 🏅 SAP Certifications
+
+| Certification | Result | Badge |
+|---------------|--------|-------|
+| **SAP Certified Associate – Back-End Developer – ABAP Cloud** (C_ABAPD_2601) | **100%** (Sept 29, 2026) | [Verify on Credly](https://www.credly.com/badges/3d9c9ee2-6182-44a4-9510-be5fd2166ccc) |
+| **SAP Certified – Backend Developer – SAP Cloud Application Programming Model** (C_CPE) | **100%** (Sept 14, 2026) | [Verify on Credly](https://www.credly.com/badges/41c565ab-b30d-4950-b7c6-c60353bb6a5d) |
+
+---
+
+## 🛠️ Current Project (In Progress)
+
+### 📦 SAP Sales & Inventory Management
+Design and development of an SAP application for **customer order management** and **stock monitoring**, with **stock-out risk identification**, following a **Clean Core** approach.
+
+![ABAP Cloud](https://img.shields.io/badge/ABAP_Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![CDS](https://img.shields.io/badge/CDS-2D5F7E?style=for-the-badge)
+![RAP](https://img.shields.io/badge/RAP-2D5F7E?style=for-the-badge)
+![Fiori](https://img.shields.io/badge/SAP_Fiori-0070F2?style=for-the-badge&logo=sap&logoColor=white)
+![Clean Core](https://img.shields.io/badge/Clean_Core-2D5F7E?style=for-the-badge)
 
 ---
 
 ## 🧰 Skills
 
 ### 🟦 SAP / ABAP
-![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![ABAP Cloud](https://img.shields.io/badge/ABAP_Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![RAP](https://img.shields.io/badge/RAP-2D5F7E?style=for-the-badge)
+![CDS](https://img.shields.io/badge/CDS_Views-2D5F7E?style=for-the-badge)
+![SAP Fiori](https://img.shields.io/badge/SAP_Fiori-0070F2?style=for-the-badge&logo=sap&logoColor=white)
+![SAP CAP](https://img.shields.io/badge/SAP_CAP-2D5F7E?style=for-the-badge)
+![SAP BTP](https://img.shields.io/badge/SAP_BTP-0070F2?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP Data Dictionary](https://img.shields.io/badge/SAP_Data_Dictionary-2D5F7E?style=for-the-badge)
 ![Solution Design](https://img.shields.io/badge/Solution_Design_ERP-2D5F7E?style=for-the-badge)
 ![Business Analysis](https://img.shields.io/badge/Business_%2F_Functional_Analysis-2D5F7E?style=for-the-badge)
@@ -101,10 +128,10 @@ Hands-on experience across the full ERP project lifecycle — requirements gathe
 
 - **Email:** [yassinelaamarti362@gmail.com](mailto:yassinelaamarti362@gmail.com)
 - **LinkedIn:** [yassine-laamarti](https://www.linkedin.com/in/yassine-laamarti/)
-- **Actively looking for:** PFE internship 2026 — ERP / SAP / Business Analysis, remote or on-site
+- **Actively looking for:** PFE internship starting January 2027 — SAP / ERP development & integration, Business Analysis · Open to relocating to Rabat
 
 <div align="center">
-  <sub>✅ SAP ABAP · Odoo ERP · Business Analysis · Intelligent full-stack & mobile applications</sub>
+  <sub>✅ SAP ABAP Cloud · Odoo ERP · Business Analysis · Intelligent full-stack & mobile applications</sub>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=yassinelaamarti&style=flat-square&color=blue" alt="Profile views" />
 </div>
